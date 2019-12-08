@@ -1,0 +1,33 @@
+
+.summary {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 10px;
+    background-color:ghostwhite;
+}
+
+h1 {
+    text-align: center;
+    color: #24ddc4; 
+}
+
+.card-body {
+    float: right;
+    margin: 10px;
+    color: rgb(6, 48, 48); 
+}
+
+.images {
+    text-align: center;
+    background-color: ghostwhite;
+    padding: 15px; 
+
+}
+
+.visualizations {
+    background-color: ghostwhite;
+}
+.table {
+    align-content: center;
+    background-color: ghostwhite
+}
